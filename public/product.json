@@ -1,0 +1,130 @@
+[
+    {
+        "image": "https://image.spreadshirtmedia.com/image-server/v1/products/T812A2PA4267PT17X133Y96D1048339609W8022H7450/views/1,width=650,height=650,appearanceId=388,backgroundColor=f6f6f6,crop=detail,modelId=115/upload-your-own-designs-and-images-for-custom-t-shirts-hoodies-and-other-items.jpg",
+        "title": "Men's Premium T-Shirt",
+        "description": "Classic cut T-shirt for men, 100% cotton (Heather gray and heather ice blue are 95% cotton/5% viscose. Heather blue & charcoal gray are 80% cotton/20% polyester. Heather burgundy is 60% cotton/40% polyester. Heather oatmeal is 99% cotton/1% viscose) Brand: Spreadshirt",
+        "price": 29.99,
+        "imagGellary":["https://image.spreadshirtmedia.com/image-server/v1/products/T812A2PA4267PT17X133Y96D1048339609W8022H7450/views/1,width=650,height=650,appearanceId=388,backgroundColor=f6f6f6,crop=detail,modelId=115/upload-your-own-designs-and-images-for-custom-t-shirts-hoodies-and-other-items.jpg","https://image.spreadshirtmedia.com/image-server/v1/products/T812A2PA4267PT17X133Y96D1048339609W8022H7450/views/2,width=650,height=650,appearanceId=388,backgroundColor=f6f6f6,crop=detail,modelId=127/upload-your-own-designs-and-images-for-custom-t-shirts-hoodies-and-other-items.jpg","https://image.spreadshirtmedia.com/image-server/v1/products/T812A2PA4267PT17X133Y96D1048339609W8022H7450/views/3,width=650,height=650,appearanceId=388,backgroundColor=f6f6f6/upload-your-own-designs-and-images-for-custom-t-shirts-hoodies-and-other-items.jpg"],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "color": [
+            {
+                "name": "red",
+                "color": "#DC143C"
+            },
+            {
+                "name": "blue",
+                "color": "#4c1ad4"
+            },
+            {
+                "name": "black",
+                "color": "#000000"
+            },
+            {
+                "name": "white",
+                "color": "#ffffff"
+            }
+        ]
+    },
+    {
+        "image": "https://image.spreadshirtmedia.com/image-server/v1/products/T1620A566PA4369PT17X53Y23D1010730949W25000H13037/views/1,width=650,height=650,appearanceId=566,backgroundColor=f6f6f6.jpg",
+        "title": "Unisex Organic Hoodie",
+        "description": "Unisex Organic Hoodie | Brand: Econscious | Fabric Content: 55% organic cotton/45% recycled polyester| Fabric weight: 7.0 oz (midweight)",
+        "price": 30.99,
+        "imagGellary":["https://image.spreadshirtmedia.com/image-server/v1/products/T1620A566PA4369PT17X53Y23D1010730949W25000H13037/views/2,width=650,height=650,appearanceId=566,backgroundColor=f6f6f6.jpg","https://image.spreadshirtmedia.com/image-server/v1/products/T1620A566PA4369PT17X53Y23D1010730949W25000H13037/views/3,width=650,height=650,appearanceId=566,backgroundColor=f6f6f6.jpg"],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "color": [
+            {
+                "name": "red",
+                "color": "#DC143C"
+            },
+            {
+                "name": "blue",
+                "color": "#4c1ad4"
+            },
+            {
+                "name": "black",
+                "color": "#000000"
+            },
+            {
+                "name": "white",
+                "color": "#ffffff"
+            }
+        ]
+    },
+    {
+        "image": "https://image.spreadshirtmedia.com/image-server/v1/products/T1962A231PA4365PT32X104Y49D1010733016W14693H5232/views/1,width=650,height=650,appearanceId=231,backgroundColor=f6f6f6.jpg",
+        "title": "Champion Unisex  Hoodie",
+        "description": "Unisex Hoodie | Brand: Champion | Fabric Content: Cotton 50%, Polyester 50%",
+        "price": 34.99,
+        "imagGellary":["https://image.spreadshirtmedia.com/image-server/v1/products/T1962A231PA4365PT32X104Y49D1010733016W14693H5232/views/2,width=650,height=650,appearanceId=231,backgroundColor=f6f6f6.jpg","https://image.spreadshirtmedia.com/image-server/v1/products/T1962A231PA4365PT32X104Y49D1010733016W14693H5232/views/3,width=650,height=650,appearanceId=231,backgroundColor=f6f6f6.jpg"],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "color": [
+            {
+                "name": "red",
+                "color": "#DC143C"
+            },
+            {
+                "name": "blue",
+                "color": "#4c1ad4"
+            },
+            {
+                "name": "black",
+                "color": "#000000"
+            },
+            {
+                "name": "white",
+                "color": "#ffffff"
+            }
+        ]
+    },
+    {
+        "image": "https://image.spreadshirtmedia.com/image-server/v1/products/T2077A231PA4341PT17X44Y39D1048144169W22860H22860/views/1,width=650,height=650,appearanceId=231,backgroundColor=f6f6f6/we-support-ukraine-standwithukraine.jpg",
+        "title": "Men’s Tri-Blend Organic T-Shirt",
+        "description": "Men’s Tri-Blend Organic T-Shirt | Brand: Allmade | Material: 50% polyester (from recycled bottles), 25% organic cotton, 25% modal",
+        "price": 40.99,
+        "imagGellary":["https://image.spreadshirtmedia.com/image-server/v1/compositions/T2077A231PA4341PT17X44Y39D1048144169W22860H22860/views/1,width=650,height=650,appearanceId=231,backgroundColor=f6f6f6/we-support-ukraine-standwithukraine.jpg","https://image.spreadshirtmedia.com/image-server/v1/products/T2077A231PA4341PT17X44Y39D1048144169W22860H22860/views/2,width=650,height=650,appearanceId=231,backgroundColor=f6f6f6/we-support-ukraine-standwithukraine.jpg","https://image.spreadshirtmedia.com/image-server/v1/products/T2077A231PA4341PT17X44Y39D1048144169W22860H22860/views/3,width=650,height=650,appearanceId=231,backgroundColor=f6f6f6/we-support-ukraine-standwithukraine.jpg"],
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "color": [
+            {
+                "name": "red",
+                "color": "#DC143C"
+            },
+            {
+                "name": "blue",
+                "color": "#4c1ad4"
+            },
+            {
+                "name": "black",
+                "color": "#000000"
+            },
+            {
+                "name": "white",
+                "color": "#ffffff"
+            }
+        ]
+    }
+]
